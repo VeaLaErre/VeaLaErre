@@ -1,6 +1,6 @@
 👋 Hi, I’m **Valentina** (aka [@VeaLaErre](https://github.com/VeaLaErre))  
 👀 I’m interested in **Java**, **JavaScript**, **CSS**, **Selenium WebDriver**, **JMeter**, **Unix**, and much more.  
-🌱 I’m currently learning **Java**, **JavaScript**, **HTML**, **CSS**, **Selenium WebDriver**, **Unix**, and **JMeter** to strengthen my QA and automation skills.  
+🌱 I’m currently learning **Java**, **JavaScript**, **HTML**, **CSS**, **Selenium WebDriver**, **Unix**,**Postman** and **JMeter** to strengthen my QA and automation skills.  
 💞️ I’d love to collaborate on **videogame projects** as a **QA Engineer**, combining my passion for gaming with my love for testing and quality assurance.  
 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-la-rocca-0963372b7/)  
